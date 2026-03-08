@@ -23,5 +23,10 @@ Model B achieved better performance and is used for the final system.
 ## Environmental Change Detection
 The system compares two satellite images and detects land-use transitions.
 
+Example:
+Forest → Residential
+Detected Transition: Natural → Built-Up
+Interpretation: Urban Expansion
+
 ## Technologies
 Python, TensorFlow/Keras, CNN, Google Colab
